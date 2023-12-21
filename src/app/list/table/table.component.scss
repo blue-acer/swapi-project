@@ -1,0 +1,44 @@
+.container{
+    width: 60%;
+    margin: 5em auto;
+    border-radius: 10px;
+    background: rgba(161, 154, 145, 1);
+    overflow: hidden;
+}
+table{
+    width: 100%;
+}
+.mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+    margin-left: -1em;
+}
+mat-label{
+    padding: 1em 3em;
+}
+th{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+td{
+    font-size: 18px;
+}
+td, th {
+    width: auto;
+    padding-left: 1em;
+}
+.search{
+    font-size: 18px;
+    width: 50%; 
+}
+.input{
+    background-color: rgba(217, 217, 217, 1);
+    padding: .5em;
+}
+body{
+    background-color: rgb(222, 212, 199);
+}
+mat-paginator{
+    background-color: rgba(217, 217, 217, 1);
+}
