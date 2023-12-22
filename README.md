@@ -1,6 +1,7 @@
 # SwapiProject
 
 This is a companion project for [swapi-backend](https://github.com/blue-acer/swapi-backend) and acts as the front-end application for displaying a list of Star Wars characters. The back-end application consumes the data from SWAPI and makes selected fields of the data objects available to the front-end application.
+
 ![image](https://github.com/blue-acer/swapi-project/assets/110229245/da87cc83-7235-461b-b761-15c11d2b4d3f)
 
 Currently, the user can search all 3 columns.
